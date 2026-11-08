@@ -20,12 +20,14 @@ $\color{#c7c887}\textsf{me,}$
 $\color{#e0d797}\textsf{text}$
 $\color{#9c9a58}\textsf{me}$
 
+<p align="center">
 $\color{#acb572}\textsf{if}$
 $\color{#c7c887}\textsf{you}$
 $\color{#e0d797}\textsf{can't}$
 $\color{#9c9a58}\textsf{text}$
 $\color{#acb572}\textsf{me,}$
 
+<p align="center">
 $\color{#c7c887}\textsf{you}$
 $\color{#e0d797}\textsf{don't}$
 $\color{#9c9a58}\textsf{have}$
